@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local raw data should not be committed
+Data/*/raw/
+Data/raw/
+
+# LaTeX/editor artifacts that may appear later
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+.idea/
+
+# Internal working notes, never publish
+INTERNAL_NOTES.md

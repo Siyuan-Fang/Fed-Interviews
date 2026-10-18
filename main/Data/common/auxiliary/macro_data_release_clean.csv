@@ -1,0 +1,968 @@
+Time,Country,Impact,Event,Actual,Consensus,Previous,surprise
+2023-7-28 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.20%,-0.10%,0.10%,-3
+2021-1-8 21:30:00,United States of America,3,Nonfarm Payrolls,-140,71,245,-2.971830986
+2020-7-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),-1.90%,1.60%,1.30%,-2.1875
+2020-7-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),-1.10%,1.00%,1.70%,-2.1
+2020-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),-0.10%,0.10%,0.20%,-2
+2022-9-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,-0.10%,0.00%,-2
+2024-7-11 20:30:00,United States of America,3,Consumer Price Index (MoM),-0.10%,0.10%,0.00%,-2
+2020-6-5 20:30:00,United States of America,3,Nonfarm Payrolls,"2,509.00","-8,000.00","-20,500.00",-1.313625
+2022-8-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),-0.10%,0.60%,1.00%,-1.166666667
+2019-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.00%,0.10%,0.10%,-1
+2019-9-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.00%,0.20%,0.20%,-1
+2019-10-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.00%,0.10%,0.00%,-1
+2019-10-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.00%,0.10%,0.10%,-1
+2020-11-25 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.00%,-0.10%,0.20%,-1
+2020-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.00%,-0.10%,0.00%,-1
+2020-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.00%,0.10%,0.00%,-1
+2023-11-30 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.00%,0.10%,0.40%,-1
+2019-2-13 21:30:00,United States of America,2,Consumer Price Index (MoM),0.00%,0.10%,-0.10%,-1
+2019-10-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.00%,0.10%,0.10%,-1
+2020-11-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.00%,0.20%,0.20%,-1
+2020-11-12 21:30:00,United States of America,2,Consumer Price Index (MoM),0.00%,0.20%,0.20%,-1
+2021-2-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.00%,0.20%,0.10%,-1
+2022-8-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.00%,0.20%,1.30%,-1
+2023-11-14 21:30:00,United States of America,3,Consumer Price Index (MoM),0.00%,0.10%,0.40%,-1
+2024-6-12 20:30:00,United States of America,3,Consumer Price Index (MoM),0.00%,0.10%,0.30%,-1
+2019-3-8 21:30:00,United States of America,3,Nonfarm Payrolls,20,180,304,-0.888888889
+2023-6-30 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.50%,0.40%,-0.8
+2022-5-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.80%,0.90%,-0.75
+2021-5-7 20:30:00,United States of America,3,Nonfarm Payrolls,266,978,916,-0.72801636
+2021-9-3 20:30:00,United States of America,3,Nonfarm Payrolls,235,750,943,-0.686666667
+2022-8-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.10%,0.30%,0.60%,-0.666666667
+2022-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.30%,0.30%,-0.666666667
+2023-4-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.30%,0.30%,-0.666666667
+2021-9-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.30%,0.30%,-0.666666667
+2022-12-13 21:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.30%,0.40%,-0.666666667
+2023-4-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.30%,0.40%,-0.666666667
+2021-12-3 21:30:00,United States of America,3,Nonfarm Payrolls,210,550,531,-0.618181818
+2021-10-8 20:30:00,United States of America,3,Nonfarm Payrolls,194,500,235,-0.612
+2021-3-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.50%,0.30%,-0.6
+2019-6-7 20:30:00,United States of America,3,Nonfarm Payrolls,75,185,263,-0.594594595
+2019-4-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),0.60%,1.30%,1.50%,-0.538461538
+2022-1-7 21:30:00,United States of America,3,Nonfarm Payrolls,199,400,210,-0.5025
+2019-3-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.20%,0.20%,-0.5
+2019-7-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.20%,0.20%,-0.5
+2019-9-27 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.20%,0.20%,-0.5
+2020-2-28 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.20%,0.20%,-0.5
+2023-9-29 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.10%,0.20%,0.20%,-0.5
+2023-12-22 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.10%,0.20%,0.20%,-0.5
+2024-9-27 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.10%,0.20%,0.20%,-0.5
+2019-3-12 20:30:00,United States of America,3,Consumer Price Index Ex Food & Energy (MoM),0.10%,0.20%,0.20%,-0.5
+2019-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.10%,-0.5
+2019-5-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.10%,-0.5
+2019-6-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.10%,-0.5
+2019-10-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.30%,-0.5
+2020-1-14 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.20%,-0.5
+2020-2-13 21:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.20%,0.20%,-0.5
+2020-6-10 20:30:00,United States of America,2,Consumer Price Index (YoY),0.10%,0.20%,0.30%,-0.5
+2021-3-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.00%,-0.5
+2023-6-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.20%,0.40%,-0.5
+2024-7-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.20%,0.20%,-0.5
+2020-12-4 21:30:00,United States of America,3,Nonfarm Payrolls,245,469,638,-0.47761194
+2022-10-27 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.20%,7.90%,7.30%,-0.46835443
+2020-8-28 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.30%,0.50%,0.20%,-0.4
+2022-10-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.50%,0.30%,-0.4
+2022-12-1 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.50%,0.30%,-0.4
+2022-4-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.50%,0.50%,-0.4
+2022-8-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.50%,0.70%,-0.4
+2022-11-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.50%,0.60%,-0.4
+2024-8-2 20:30:00,United States of America,3,Nonfarm Payrolls,114,175,206,-0.348571429
+2019-5-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),0.40%,0.60%,0.60%,-0.333333333
+2021-7-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.40%,0.60%,0.50%,-0.333333333
+2022-12-1 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.30%,0.50%,-0.333333333
+2024-5-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.30%,0.30%,-0.333333333
+2020-1-14 21:30:00,United States of America,2,Consumer Price Index (MoM),0.20%,0.30%,0.30%,-0.333333333
+2022-11-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.60%,0.40%,-0.333333333
+2022-12-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.30%,0.30%,-0.333333333
+2023-7-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.30%,0.40%,-0.333333333
+2023-7-12 20:30:00,United States of America,3,Consumer Price Index (MoM),0.20%,0.30%,0.10%,-0.333333333
+2023-11-14 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.30%,0.30%,-0.333333333
+2024-6-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.30%,0.30%,-0.333333333
+2020-6-5 20:30:00,United States of America,3,Unemployment Rate,13.30%,19.80%,14.70%,-0.328282828
+2024-5-3 20:30:00,United States of America,3,Nonfarm Payrolls,175,243,303,-0.279835391
+2023-1-26 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.90%,5.30%,4.70%,-0.264150943
+2023-1-26 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),3.20%,4.30%,4.30%,-0.255813953
+2019-10-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,2.00%,2.40%,-0.25
+2021-10-1 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.40%,0.30%,-0.25
+2022-6-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.40%,0.30%,-0.25
+2023-3-31 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.40%,0.60%,-0.25
+2023-6-30 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.40%,0.40%,-0.25
+2024-3-29 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.40%,0.30%,-0.25
+2019-5-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.40%,0.40%,-0.25
+2020-5-12 20:30:00,United States of America,2,Consumer Price Index (YoY),0.30%,0.40%,1.50%,-0.25
+2021-8-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.40%,0.90%,-0.25
+2021-9-14 20:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.40%,0.50%,-0.25
+2024-5-15 20:30:00,United States of America,3,Consumer Price Index (MoM),0.30%,0.40%,0.40%,-0.25
+2020-1-30 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.30%,1.70%,2.10%,-0.235294118
+2020-4-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.30%,1.70%,1.80%,-0.235294118
+2019-5-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.00%,1.30%,1.30%,-0.230769231
+2022-11-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,36.2,47,45.2,-0.229787234
+2020-10-2 20:30:00,United States of America,3,Nonfarm Payrolls,661,850,"1,371.00",-0.222352941
+2020-9-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),-0.80%,-1.00%,-1.00%,-0.2
+2022-1-28 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.50%,0.60%,-0.2
+2023-9-29 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.50%,0.20%,-0.2
+2020-5-29 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,32.3,40,35.4,-0.1925
+2019-4-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.30%,1.60%,1.80%,-0.1875
+2020-2-27 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.30%,1.60%,1.60%,-0.1875
+2020-6-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,36.6,45,32.3,-0.186666667
+2019-9-6 20:30:00,United States of America,3,Nonfarm Payrolls,130,158,164,-0.17721519
+2019-7-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.40%,1.70%,1.50%,-0.176470588
+2020-5-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.40%,1.70%,2.10%,-0.176470588
+2023-6-30 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.80%,4.60%,4.40%,-0.173913043
+2020-8-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.00%,1.20%,0.80%,-0.166666667
+2021-6-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.50%,0.60%,0.70%,-0.166666667
+2023-11-3 20:30:00,United States of America,3,Nonfarm Payrolls,150,180,336,-0.166666667
+2021-1-28 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.80%,3.70%,-0.166666667
+2022-8-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.30%,7.40%,6.80%,-0.148648649
+2020-9-4 20:30:00,United States of America,2,Unemployment Rate,8.40%,9.80%,10.20%,-0.142857143
+2023-5-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,40.4,47,48.6,-0.140425532
+2021-6-4 20:30:00,United States of America,3,Nonfarm Payrolls,559,650,266,-0.14
+2024-5-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,35.4,41,37.9,-0.136585366
+2023-12-21 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.00%,2.30%,2.30%,-0.130434783
+2020-10-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.50%,4.00%,-0.80%,-0.125
+2019-7-31 21:48:00,United States of America,2,Chicago Purchasing Managers' Index,44.4,50.6,49.7,-0.122529644
+2020-1-31 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,42.9,48.8,48.9,-0.120901639
+2022-4-1 20:30:00,United States of America,3,Nonfarm Payrolls,431,490,678,-0.120408163
+2022-9-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,45.7,51.8,52.2,-0.117760618
+2020-10-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.50%,1.70%,1.60%,-0.117647059
+2020-1-10 21:30:00,United States of America,3,Nonfarm Payrolls,145,164,266,-0.115853659
+2024-10-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,41.6,47,46.6,-0.114893617
+2024-9-6 20:30:00,United States of America,3,Nonfarm Payrolls,142,160,114,-0.1125
+2020-5-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.60%,1.80%,1.80%,-0.111111111
+2020-9-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),-1.60%,-1.80%,-1.80%,-0.111111111
+2020-11-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.60%,1.80%,1.70%,-0.111111111
+2019-4-30 21:55:00,United States of America,2,Chicago Purchasing Managers' Index,52.6,59,58.7,-0.108474576
+2022-2-28 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,56.3,63,65.2,-0.106349206
+2020-11-6 21:30:00,United States of America,2,Unemployment Rate,6.90%,7.70%,7.90%,-0.103896104
+2019-7-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.80%,2.00%,1.20%,-0.1
+2020-7-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,0.90%,1.00%,1.00%,-0.1
+2024-3-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,41.4,46,44,-0.1
+2019-10-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,43.2,48,47.1,-0.1
+2020-7-2 20:30:00,United States of America,3,Unemployment Rate,11.10%,12.30%,13.30%,-0.097560976
+2020-5-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.00%,1.10%,1.70%,-0.090909091
+2020-8-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),-1.00%,-1.10%,-1.10%,-0.090909091
+2023-4-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),4.20%,4.60%,5.00%,-0.086956522
+2020-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.10%,2.30%,2.40%,-0.086956522
+2020-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.10%,1.20%,1.20%,-0.083333333
+2024-2-29 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,44,48,46,-0.083333333
+2023-12-29 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,46.9,51,55.8,-0.080392157
+2019-1-31 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,56.7,61.5,65.4,-0.07804878
+2021-11-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,61.8,67,68.4,-0.07761194
+2020-2-27 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.20%,1.30%,1.30%,-0.076923077
+2020-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.20%,1.30%,1.40%,-0.076923077
+2020-11-12 21:30:00,United States of America,2,Consumer Price Index (YoY),1.20%,1.30%,1.40%,-0.076923077
+2023-9-29 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,44.1,47.6,48.7,-0.073529412
+2019-10-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.30%,1.40%,1.40%,-0.071428571
+2021-3-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.30%,1.40%,1.40%,-0.071428571
+2023-12-21 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.60%,2.80%,2.80%,-0.071428571
+2023-12-22 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.60%,2.80%,3.00%,-0.071428571
+2021-3-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.30%,1.40%,1.40%,-0.071428571
+2023-7-7 20:30:00,United States of America,3,Nonfarm Payrolls,209,225,339,-0.071111111
+2020-4-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,35.4,38,47.8,-0.068421053
+2020-5-8 20:30:00,United States of America,3,Nonfarm Payrolls,"-20,500.00","-22,000.00",-701,-0.068181818
+2020-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.40%,1.50%,1.40%,-0.066666667
+2021-1-28 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.40%,1.50%,3.40%,-0.066666667
+2021-3-26 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.40%,1.50%,1.50%,-0.066666667
+2021-2-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.40%,1.50%,1.60%,-0.066666667
+2021-2-10 21:30:00,United States of America,2,Consumer Price Index (YoY),1.40%,1.50%,1.40%,-0.066666667
+2021-12-3 21:30:00,United States of America,2,Unemployment Rate,4.20%,4.50%,4.60%,-0.066666667
+2023-8-4 20:30:00,United States of America,3,Nonfarm Payrolls,187,200,209,-0.065
+2019-6-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,49.7,53.1,54.2,-0.064030132
+2021-10-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),4.40%,4.70%,4.30%,-0.063829787
+2021-3-25 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.60%,1.60%,-0.0625
+2019-3-12 20:30:00,United States of America,2,Consumer Price Index (YoY),1.50%,1.60%,1.60%,-0.0625
+2020-4-10 20:30:00,United States of America,2,Consumer Price Index (YoY),1.50%,1.60%,2.30%,-0.0625
+2019-10-4 20:30:00,United States of America,3,Nonfarm Payrolls,136,145,130,-0.062068966
+2019-9-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,47.1,50.2,50.4,-0.061752988
+2022-9-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.20%,6.60%,6.30%,-0.060606061
+2021-2-5 21:30:00,United States of America,2,Unemployment Rate,6.30%,6.70%,6.70%,-0.059701493
+2019-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.70%,1.70%,-0.058823529
+2019-7-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.70%,1.60%,-0.058823529
+2019-11-27 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.70%,1.70%,-0.058823529
+2020-1-30 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.60%,1.70%,1.50%,-0.058823529
+2020-1-31 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.60%,1.70%,1.50%,-0.058823529
+2020-2-28 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.70%,1.60%,-0.058823529
+2021-10-8 20:30:00,United States of America,2,Unemployment Rate,4.80%,5.10%,5.20%,-0.058823529
+2023-6-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,41.5,44,40.4,-0.056818182
+2023-3-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.00%,5.30%,5.40%,-0.056603774
+2022-4-29 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,58.5,62,62.9,-0.056451613
+2021-6-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,66.1,70,75.2,-0.055714286
+2019-8-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.70%,1.80%,1.80%,-0.055555556
+2019-9-12 20:30:00,United States of America,2,Consumer Price Index (YoY),1.70%,1.80%,1.80%,-0.055555556
+2019-10-10 20:30:00,United States of America,2,Consumer Price Index (YoY),1.70%,1.80%,1.70%,-0.055555556
+2020-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.70%,1.80%,1.70%,-0.055555556
+2023-2-3 21:30:00,United States of America,2,Unemployment Rate,3.40%,3.60%,3.50%,-0.055555556
+2021-7-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.50%,3.70%,3.40%,-0.054054054
+2019-10-4 20:30:00,United States of America,2,Unemployment Rate,3.50%,3.70%,3.70%,-0.054054054
+2022-10-7 20:30:00,United States of America,2,Unemployment Rate,3.50%,3.70%,3.70%,-0.054054054
+2023-1-6 21:30:00,United States of America,2,Unemployment Rate,3.50%,3.70%,3.70%,-0.054054054
+2022-7-29 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,52.1,55,56,-0.052727273
+2019-3-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.80%,1.90%,1.90%,-0.052631579
+2019-6-12 20:30:00,United States of America,2,Consumer Price Index (YoY),1.80%,1.90%,2.00%,-0.052631579
+2019-5-3 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.80%,3.80%,-0.052631579
+2021-8-6 20:30:00,United States of America,2,Unemployment Rate,5.40%,5.70%,5.90%,-0.052631579
+2023-12-8 21:30:00,United States of America,2,Unemployment Rate,3.70%,3.90%,3.90%,-0.051282051
+2023-7-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.80%,4.00%,4.90%,-0.05
+2022-1-28 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.80%,6.10%,5.70%,-0.049180328
+2022-1-7 21:30:00,United States of America,2,Unemployment Rate,3.90%,4.10%,4.20%,-0.048780488
+2024-3-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.00%,2.10%,2.10%,-0.047619048
+2019-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.00%,2.10%,2.10%,-0.047619048
+2019-5-10 20:30:00,United States of America,2,Consumer Price Index (YoY),2.00%,2.10%,1.90%,-0.047619048
+2019-6-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.00%,2.10%,2.10%,-0.047619048
+2021-9-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.00%,4.20%,4.30%,-0.047619048
+2022-5-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.30%,6.60%,6.60%,-0.045454545
+2019-11-27 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.10%,2.20%,2.20%,-0.045454545
+2022-3-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.40%,6.70%,6.10%,-0.044776119
+2024-9-27 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.20%,2.30%,2.50%,-0.043478261
+2021-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.30%,2.40%,1.30%,-0.041666667
+2023-11-29 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.30%,2.40%,2.40%,-0.041666667
+2019-11-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.30%,2.40%,2.40%,-0.041666667
+2024-1-31 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,46,48,46.9,-0.041666667
+2023-10-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.40%,2.50%,3.70%,-0.04
+2023-7-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.80%,5.00%,5.30%,-0.04
+2023-8-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.50%,2.60%,2.60%,-0.038461538
+2024-8-29 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.50%,2.60%,2.60%,-0.038461538
+2024-8-30 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.50%,2.60%,2.50%,-0.038461538
+2023-4-12 20:30:00,United States of America,2,Consumer Price Index (YoY),5.00%,5.20%,6.00%,-0.038461538
+2024-9-11 20:30:00,United States of America,3,Consumer Price Index (YoY),2.50%,2.60%,2.90%,-0.038461538
+2022-10-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,45.2,47,45.7,-0.038297872
+2019-3-29 21:52:00,United States of America,2,Chicago Purchasing Managers' Index,58.7,61,64.7,-0.037704918
+2022-11-10 21:30:00,United States of America,2,Consumer Price Index (YoY),7.70%,8.00%,8.20%,-0.0375
+2022-4-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.20%,5.40%,5.00%,-0.037037037
+2024-8-30 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.60%,2.70%,2.60%,-0.037037037
+2020-10-2 20:30:00,United States of America,2,Unemployment Rate,7.90%,8.20%,8.40%,-0.036585366
+2023-11-29 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.80%,2.90%,2.90%,-0.034482759
+2024-8-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.80%,2.90%,2.90%,-0.034482759
+2022-6-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,56,58,60.3,-0.034482759
+2024-1-26 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.90%,3.00%,3.20%,-0.033333333
+2024-8-14 20:30:00,United States of America,3,Consumer Price Index (YoY),2.90%,3.00%,3.00%,-0.033333333
+2022-8-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.90%,6.10%,5.90%,-0.032786885
+2022-12-1 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.00%,6.20%,6.20%,-0.032258065
+2023-7-28 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.00%,3.10%,3.80%,-0.032258065
+2023-7-12 20:30:00,United States of America,3,Consumer Price Index (YoY),3.00%,3.10%,4.00%,-0.032258065
+2024-7-11 20:30:00,United States of America,3,Consumer Price Index (YoY),3.00%,3.10%,3.30%,-0.032258065
+2023-2-28 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,43.6,45,44.3,-0.031111111
+2022-11-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.30%,6.50%,6.60%,-0.030769231
+2023-12-22 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,3.20%,3.30%,3.50%,-0.03030303
+2023-8-10 20:30:00,United States of America,3,Consumer Price Index (YoY),3.20%,3.30%,3.00%,-0.03030303
+2023-11-14 21:30:00,United States of America,3,Consumer Price Index (YoY),3.20%,3.30%,3.70%,-0.03030303
+2024-6-12 20:30:00,United States of America,3,Consumer Price Index (YoY),3.30%,3.40%,3.40%,-0.029411765
+2024-7-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.30%,3.40%,3.40%,-0.029411765
+2020-5-8 20:30:00,United States of America,2,Labor Force Participation Rate,60.20%,62.00%,62.70%,-0.029032258
+2020-8-7 20:30:00,United States of America,2,Unemployment Rate,10.20%,10.50%,11.10%,-0.028571429
+2020-12-22 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.40%,3.50%,3.50%,-0.028571429
+2024-6-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.40%,3.50%,3.60%,-0.028571429
+2023-5-5 20:30:00,United States of America,2,Unemployment Rate,3.40%,3.50%,3.50%,-0.028571429
+2019-12-6 21:30:00,United States of America,2,Unemployment Rate,3.50%,3.60%,3.60%,-0.027777778
+2020-3-6 21:30:00,United States of America,2,Unemployment Rate,3.50%,3.60%,3.60%,-0.027777778
+2022-8-5 20:30:00,United States of America,2,Unemployment Rate,3.50%,3.60%,3.60%,-0.027777778
+2023-4-7 20:30:00,United States of America,2,Unemployment Rate,3.50%,3.60%,3.60%,-0.027777778
+2023-8-4 20:30:00,United States of America,2,Unemployment Rate,3.50%,3.60%,3.60%,-0.027777778
+2022-12-13 21:30:00,United States of America,2,Consumer Price Index (YoY),7.10%,7.30%,7.70%,-0.02739726
+2021-10-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.60%,3.70%,3.60%,-0.027027027
+2024-5-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.60%,3.70%,3.70%,-0.027027027
+2022-4-1 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.70%,3.80%,-0.027027027
+2023-8-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.70%,3.80%,3.80%,-0.026315789
+2024-1-5 21:30:00,United States of America,2,Unemployment Rate,3.70%,3.80%,3.70%,-0.026315789
+2024-2-2 21:30:00,United States of America,2,Unemployment Rate,3.70%,3.80%,3.70%,-0.026315789
+2021-2-26 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,59.5,61.1,63.8,-0.026186579
+2019-3-8 21:30:00,United States of America,2,Unemployment Rate,3.80%,3.90%,4.00%,-0.025641026
+2022-3-4 21:30:00,United States of America,2,Unemployment Rate,3.80%,3.90%,4.00%,-0.025641026
+2024-4-5 20:30:00,United States of America,2,Unemployment Rate,3.80%,3.90%,3.90%,-0.025641026
+2021-6-25 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),3.90%,4.00%,3.60%,-0.025
+2023-6-13 20:30:00,United States of America,2,Consumer Price Index (YoY),4.00%,4.10%,4.90%,-0.024390244
+2023-11-14 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.00%,4.10%,4.10%,-0.024390244
+2023-6-29 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.10%,4.20%,4.20%,-0.023809524
+2023-7-28 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,4.10%,4.20%,4.60%,-0.023809524
+2024-10-4 20:30:00,United States of America,2,Unemployment Rate,4.10%,4.20%,4.20%,-0.023809524
+2022-8-10 20:30:00,United States of America,2,Consumer Price Index (YoY),8.50%,8.70%,9.10%,-0.022988506
+2022-7-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.40%,4.50%,5.20%,-0.022222222
+2023-10-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,44,45,44.1,-0.022222222
+2022-8-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.60%,4.70%,4.80%,-0.021276596
+2023-3-31 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.60%,4.70%,4.70%,-0.021276596
+2023-6-30 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,4.60%,4.70%,4.70%,-0.021276596
+2021-11-5 20:30:00,United States of America,2,Unemployment Rate,4.60%,4.70%,4.80%,-0.021276596
+2023-8-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.70%,4.80%,4.80%,-0.020833333
+2020-9-4 20:30:00,United States of America,3,Nonfarm Payrolls,"1,371.00","1,400.00","1,763.00",-0.020714286
+2023-6-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.90%,5.00%,5.00%,-0.02
+2023-5-10 20:30:00,United States of America,2,Consumer Price Index (YoY),4.90%,5.00%,5.00%,-0.02
+2021-2-5 21:30:00,United States of America,3,Nonfarm Payrolls,49,50,-140,-0.02
+2022-5-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.10%,5.20%,5.20%,-0.019230769
+2022-10-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,5.10%,5.20%,4.90%,-0.019230769
+2022-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,5.20%,5.30%,5.40%,-0.018867925
+2022-3-31 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,5.40%,5.50%,5.20%,-0.018181818
+2021-8-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,66.8,68,73.4,-0.017647059
+2021-6-4 20:30:00,United States of America,2,Unemployment Rate,5.80%,5.90%,6.10%,-0.016949153
+2023-4-7 20:30:00,United States of America,3,Nonfarm Payrolls,236,240,311,-0.016666667
+2022-12-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.00%,6.10%,6.30%,-0.016393443
+2021-3-5 21:30:00,United States of America,2,Unemployment Rate,6.20%,6.30%,6.30%,-0.015873016
+2020-8-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,51.2,52,51.9,-0.015384615
+2021-8-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),6.50%,6.60%,6.40%,-0.015151515
+2022-4-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.50%,6.60%,6.40%,-0.015151515
+2019-11-27 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,46.3,47,43.2,-0.014893617
+2020-12-4 21:30:00,United States of America,2,Unemployment Rate,6.70%,6.80%,6.90%,-0.014705882
+2021-1-8 21:30:00,United States of America,2,Unemployment Rate,6.70%,6.80%,6.70%,-0.014705882
+2020-11-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,58.2,59,61.1,-0.013559322
+2020-4-3 20:30:00,United States of America,2,Labor Force Participation Rate,62.70%,63.30%,63.40%,-0.009478673
+2023-7-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,42.8,43,41.5,-0.004651163
+2021-9-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,64.7,65,66.8,-0.004615385
+2022-12-13 21:30:00,United States of America,2,Consumer Price Index Core s.a,300.07,300.896,299.47,-0.002745135
+2022-11-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),298.012,298.583,296.808,-0.001912366
+2020-6-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.394,256.837,256.389,-0.001724829
+2020-10-2 20:30:00,United States of America,2,Labor Force Participation Rate,61.40%,61.50%,61.70%,-0.001626016
+2021-10-8 20:30:00,United States of America,2,Labor Force Participation Rate,61.60%,61.70%,61.70%,-0.001620746
+2019-5-3 20:30:00,United States of America,2,Labor Force Participation Rate,62.80%,62.90%,63.00%,-0.001589825
+2019-6-7 20:30:00,United States of America,2,Labor Force Participation Rate,62.80%,62.90%,62.80%,-0.001589825
+2019-12-6 21:30:00,United States of America,2,Labor Force Participation Rate,63.20%,63.30%,63.30%,-0.001579779
+2024-7-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),314.175,314.63,314.069,-0.001446143
+2023-4-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),301.836,302.254,300.84,-0.001382943
+2022-8-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),296.276,296.669,296.311,-0.001324709
+2022-12-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),297.711,298.045,298.012,-0.001120636
+2019-5-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),255.548,255.817,254.202,-0.001051533
+2024-6-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),314.069,314.37,313.548,-0.00095747
+2021-9-14 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),273.567,273.807,273.003,-0.00087653
+2021-2-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),261.582,261.79,260.474,-0.00079453
+2020-1-14 21:30:00,United States of America,2,Consumer Price Index Core s.a,265.921,266.119,265.62,-0.000744028
+2020-1-14 21:30:00,United States of America,2,Consumer Price Index n.s.a (MoM),256.974,257.165,257.208,-0.000742714
+2024-8-14 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),314.54,314.77,314.175,-0.000730692
+2024-5-15 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),313.548,313.76,312.332,-0.000675676
+2019-3-12 20:30:00,United States of America,2,Consumer Price Index Core s.a,260.99,261.165,260.701,-0.000670074
+2021-12-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),277.948,278.114,276.589,-0.000596878
+2024-9-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),314.796,314.98,314.54,-0.000584164
+2023-5-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),303.363,303.532,301.836,-0.000556778
+2023-8-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),305.691,305.84,305.109,-0.000487183
+2020-11-12 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),260.388,260.493,260.28,-0.000403082
+2019-6-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.092,256.195,255.548,-0.000402038
+2019-3-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),252.77,252.87,251.71,-0.00039546
+2019-10-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.759,256.859,256.558,-0.000389319
+2023-7-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),305.109,305.219,304.127,-0.000360397
+2019-11-13 21:30:00,United States of America,2,Consumer Price Index Core s.a,265.011,265.106,264.595,-0.000358347
+2020-4-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),258.115,258.2,258.678,-0.000329202
+2020-10-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),260.28,260.348,259.918,-0.000261189
+2021-3-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),263.014,263.082,261.582,-0.000258475
+2020-5-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.389,256.449,258.115,-0.000233965
+2019-9-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.558,256.582,256.571,-9.35373E-05
+2023-3-14 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),300.84,300.86,299.17,-6.64761E-05
+2019-12-11 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),257.208,257.221,257.346,-5.05402E-05
+2019-2-28 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.50%,1.60%,0
+2019-3-1 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.10%,0
+2019-3-1 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.90%,1.90%,1.90%,0
+2019-3-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.50%,1.50%,0
+2019-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.70%,1.70%,1.80%,0
+2019-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.10%,0.10%,0
+2019-5-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.50%,1.50%,1.50%,0
+2019-5-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.60%,1.60%,0
+2019-5-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.00%,0
+2019-6-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.50%,1.50%,1.50%,0
+2019-6-28 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.60%,1.60%,0
+2019-6-28 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.20%,0
+2019-7-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.20%,0
+2019-8-29 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.30%,2.30%,2.30%,0
+2019-8-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.60%,1.60%,0
+2019-8-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.20%,0
+2019-9-27 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.80%,1.80%,1.60%,0
+2019-10-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.70%,1.70%,1.80%,0
+2019-11-27 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.50%,1.50%,0
+2019-11-27 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.10%,0.00%,0
+2019-12-20 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.10%,2.10%,2.10%,0
+2019-12-20 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.50%,1.50%,1.50%,0
+2019-12-20 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.60%,1.60%,0
+2019-12-20 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.10%,0.10%,0
+2020-1-31 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.60%,1.60%,0
+2020-2-28 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.10%,0.30%,0
+2020-2-28 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.70%,1.70%,1.60%,0
+2020-3-27 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.10%,0
+2020-3-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.10%,0.10%,0
+2020-4-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,-0.10%,-0.10%,0.20%,0
+2020-5-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.30%,1.30%,1.30%,0
+2020-6-25 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.30%,1.30%,1.30%,0
+2020-7-31 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.10%,0
+2020-10-1 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.30%,0.30%,0.30%,0
+2020-10-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.20%,0.30%,0
+2020-11-25 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.50%,3.50%,3.50%,0
+2020-11-25 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.40%,1.40%,1.50%,0
+2020-12-22 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),3.70%,3.70%,3.70%,0
+2021-2-25 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.40%,1.40%,1.40%,0
+2021-2-26 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.30%,0.40%,0
+2021-3-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.60%,1.60%,1.50%,0
+2021-3-26 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.10%,0.30%,0
+2021-4-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.80%,1.80%,1.40%,0
+2021-6-24 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.50%,2.50%,2.50%,0
+2021-6-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.40%,3.40%,3.10%,0
+2021-8-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),6.10%,6.10%,6.10%,0
+2021-8-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.40%,0
+2021-8-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.60%,3.60%,3.50%,0
+2021-9-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),6.10%,6.10%,6.10%,0
+2021-9-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),6.50%,6.50%,6.50%,0
+2021-10-1 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.40%,0.40%,0
+2021-10-1 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.60%,3.60%,3.60%,0
+2021-10-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.50%,4.50%,6.10%,0
+2021-10-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.30%,0
+2021-10-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.30%,0.40%,0
+2021-11-24 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),5.30%,5.30%,5.30%,0
+2021-11-24 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.50%,4.50%,4.50%,0
+2021-11-24 23:00:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.40%,0.40%,0.20%,0
+2021-11-24 23:00:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.10%,4.10%,3.60%,0
+2021-12-22 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),5.30%,5.30%,5.30%,0
+2021-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.60%,0.60%,0.60%,0
+2022-1-27 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.90%,4.90%,4.60%,0
+2022-1-28 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.50%,0.50%,0.50%,0
+2022-2-24 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),6.30%,6.30%,6.50%,0
+2022-2-25 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.50%,0.50%,0.50%,0
+2022-3-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.00%,5.00%,5.00%,0
+2022-3-31 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.40%,0.40%,0.50%,0
+2022-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.40%,0
+2022-5-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.00%,7.00%,7.00%,0
+2022-5-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.90%,4.90%,5.20%,0
+2022-5-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.30%,0
+2022-6-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.70%,4.70%,4.90%,0
+2022-8-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.40%,4.40%,4.40%,0
+2022-8-25 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.10%,7.10%,7.10%,0
+2022-9-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.30%,-0.10%,0
+2022-10-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.50%,4.50%,4.70%,0
+2022-10-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.50%,0.50%,0.60%,0
+2022-12-1 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,5.00%,5.00%,5.10%,0
+2022-12-22 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.30%,4.30%,4.30%,0
+2022-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.70%,4.70%,5.00%,0
+2022-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.20%,0
+2023-3-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),3.70%,3.70%,3.70%,0
+2023-4-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.30%,0
+2023-5-25 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.20%,4.20%,4.20%,0
+2023-5-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.40%,0.10%,0
+2023-7-28 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.30%,0
+2023-8-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,4.20%,4.20%,4.10%,0
+2023-8-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.20%,0
+2023-8-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.20%,0.20%,0
+2023-8-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.30%,3.30%,3.00%,0
+2023-9-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.70%,3.70%,3.70%,0
+2023-9-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.50%,2.50%,2.50%,0
+2023-9-29 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.50%,3.50%,3.30%,0
+2023-9-29 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,3.90%,3.90%,4.20%,0
+2023-10-27 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,3.70%,3.70%,3.90%,0
+2023-10-27 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.40%,3.40%,3.50%,0
+2023-10-27 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.10%,0
+2023-11-30 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.30%,0
+2023-11-30 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,3.50%,3.50%,3.70%,0
+2023-11-30 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),3.00%,3.00%,3.40%,0
+2024-1-25 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.00%,2.00%,2.00%,0
+2024-1-26 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.60%,2.60%,2.60%,0
+2024-1-26 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.20%,-0.10%,0
+2024-1-26 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.10%,0
+2024-2-29 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.40%,2.40%,2.60%,0
+2024-2-29 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.40%,0.40%,0.20%,0
+2024-2-29 21:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.80%,2.80%,2.90%,0
+2024-2-29 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.30%,0.20%,0
+2024-3-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.80%,1.80%,1.80%,0
+2024-3-29 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.80%,2.80%,2.80%,0
+2024-3-29 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.40%,0
+2024-3-29 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.50%,2.50%,2.40%,0
+2024-5-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.80%,2.80%,2.80%,0
+2024-5-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.70%,2.70%,2.70%,0
+2024-5-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.30%,0.30%,0
+2024-6-28 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.60%,2.60%,2.80%,0
+2024-6-28 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.10%,0.10%,0.20%,0
+2024-6-28 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.60%,2.60%,2.70%,0
+2024-7-26 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.10%,0.00%,0
+2024-7-26 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.50%,2.50%,2.60%,0
+2024-8-30 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.20%,0.10%,0
+2024-8-30 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.20%,0.20%,0
+2024-9-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.50%,2.50%,2.50%,0
+2024-9-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.80%,2.80%,2.80%,0
+2024-9-27 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.10%,0.20%,0
+2024-9-27 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.70%,2.70%,2.60%,0
+2024-10-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (YoY),2.10%,2.10%,2.20%,0
+2024-10-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.30%,0.10%,0
+2024-10-31 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.20%,0.10%,0
+2019-1-11 21:30:00,United States of America,3,Consumer Price Index Ex Food & Energy (YoY),2.20%,2.20%,2.20%,0
+2019-1-11 21:30:00,United States of America,2,Consumer Price Index (YoY),1.90%,1.90%,2.20%,0
+2019-1-11 21:30:00,United States of America,2,Consumer Price Index (MoM),-0.10%,-0.10%,0.00%,0
+2019-1-11 21:30:00,United States of America,2,Consumer Price Index Ex Food & Energy (MoM),0.20%,0.20%,0.20%,0
+2019-2-13 21:30:00,United States of America,3,Consumer Price Index Ex Food & Energy (MoM),0.20%,0.20%,0.20%,0
+2019-3-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.20%,0.20%,0.00%,0
+2019-5-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.10%,2.10%,2.00%,0
+2019-6-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.10%,0.30%,0
+2019-7-11 20:30:00,United States of America,2,Consumer Price Index (YoY),1.60%,1.60%,1.80%,0
+2019-8-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.30%,0.10%,0
+2019-9-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.10%,0.30%,0
+2019-10-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.40%,2.40%,2.40%,0
+2019-11-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.10%,0
+2019-12-11 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.20%,0
+2019-12-11 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.30%,2.30%,2.30%,0
+2020-1-14 21:30:00,United States of America,2,Consumer Price Index (YoY),2.30%,2.30%,2.10%,0
+2020-1-14 21:30:00,United States of America,2,Consumer Price Index ex Food & Energy (YoY),2.30%,2.30%,2.30%,0
+2020-2-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.10%,0
+2020-3-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.20%,0
+2020-5-12 20:30:00,United States of America,2,Consumer Price Index (MoM),-0.80%,-0.80%,-0.40%,0
+2020-7-14 20:30:00,United States of America,2,Consumer Price Index (YoY),0.60%,0.60%,0.10%,0
+2020-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.40%,0
+2020-10-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.20%,0.20%,0.40%,0
+2020-10-13 20:30:00,United States of America,2,Consumer Price Index (YoY),1.40%,1.40%,1.30%,0
+2020-12-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.60%,1.60%,1.60%,0
+2020-12-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.20%,0.20%,0.00%,0
+2021-1-13 21:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.40%,0.20%,0
+2021-1-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.10%,0.10%,0.20%,0
+2021-1-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.60%,1.60%,1.60%,0
+2021-2-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.30%,0.40%,0
+2021-3-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.40%,0.30%,0
+2021-3-10 21:30:00,United States of America,2,Consumer Price Index (YoY),1.70%,1.70%,1.40%,0
+2021-8-11 20:30:00,United States of America,2,Consumer Price Index (MoM),0.50%,0.50%,0.90%,0
+2021-8-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.30%,4.30%,4.50%,0
+2021-9-14 20:30:00,United States of America,2,Consumer Price Index (YoY),5.30%,5.30%,5.40%,0
+2021-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.00%,4.00%,4.00%,0
+2021-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.10%,0
+2021-12-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.90%,4.90%,4.60%,0
+2021-12-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.50%,0.50%,0.60%,0
+2021-12-10 21:30:00,United States of America,2,Consumer Price Index (YoY),6.80%,6.80%,6.20%,0
+2022-1-12 21:30:00,United States of America,2,Consumer Price Index (YoY),7.00%,7.00%,6.80%,0
+2022-3-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.40%,6.40%,6.00%,0
+2022-3-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.50%,0.50%,0.60%,0
+2022-3-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.80%,0.80%,0.60%,0
+2022-3-10 21:30:00,United States of America,2,Consumer Price Index (YoY),7.90%,7.90%,7.50%,0
+2022-4-12 20:30:00,United States of America,2,Consumer Price Index (MoM),1.20%,1.20%,0.80%,0
+2023-1-12 21:30:00,United States of America,2,Consumer Price Index (YoY),6.50%,6.50%,7.10%,0
+2023-1-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.30%,0.20%,0
+2023-1-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.70%,5.70%,6.00%,0
+2023-2-14 21:30:00,United States of America,2,Consumer Price Index (MoM),0.50%,0.50%,-0.10%,0
+2023-2-14 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.40%,0.30%,0
+2023-3-14 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.40%,0.50%,0
+2023-3-14 20:30:00,United States of America,2,Consumer Price Index (YoY),6.00%,6.00%,6.40%,0
+2023-3-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.50%,5.50%,5.60%,0
+2023-4-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.60%,5.60%,5.50%,0
+2023-4-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.40%,0.50%,0
+2023-5-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.50%,5.50%,5.60%,0
+2023-5-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.40%,0.40%,0
+2023-5-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.40%,0.10%,0
+2023-6-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.40%,0.40%,0
+2023-6-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.30%,5.30%,5.50%,0
+2023-8-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.20%,0
+2023-8-10 20:30:00,United States of America,3,Consumer Price Index (MoM),0.20%,0.20%,0.20%,0
+2023-9-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.30%,4.30%,4.70%,0
+2023-9-13 20:30:00,United States of America,3,Consumer Price Index (MoM),0.60%,0.60%,0.20%,0
+2023-10-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.10%,4.10%,4.30%,0
+2023-10-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.30%,0.30%,0
+2023-12-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.30%,0.20%,0
+2023-12-12 21:30:00,United States of America,3,Consumer Price Index (YoY),3.10%,3.10%,3.20%,0
+2023-12-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.00%,4.00%,4.00%,0
+2023-12-12 21:30:00,United States of America,3,Consumer Price Index (MoM),0.10%,0.10%,0.00%,0
+2024-1-11 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.30%,0.30%,0
+2024-3-12 20:30:00,United States of America,3,Consumer Price Index (MoM),0.40%,0.40%,0.30%,0
+2024-5-15 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.30%,0.40%,0
+2024-5-15 20:30:00,United States of America,3,Consumer Price Index (YoY),3.40%,3.40%,3.50%,0
+2024-5-15 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.60%,3.60%,3.80%,0
+2024-8-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.20%,0.10%,0
+2024-8-14 20:30:00,United States of America,3,Consumer Price Index (MoM),0.20%,0.20%,-0.10%,0
+2024-8-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.20%,3.20%,3.30%,0
+2024-9-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.20%,3.20%,3.20%,0
+2024-9-11 20:30:00,United States of America,3,Consumer Price Index (MoM),0.20%,0.20%,0.20%,0
+2019-8-2 20:30:00,United States of America,3,Nonfarm Payrolls,164,164,224,0
+2019-4-5 20:30:00,United States of America,2,Unemployment Rate,3.80%,3.80%,3.80%,0
+2019-6-7 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.60%,3.60%,0
+2019-8-2 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.70%,3.70%,0
+2019-9-6 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.70%,3.70%,0
+2019-11-1 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.60%,3.50%,0
+2020-1-10 21:30:00,United States of America,2,Unemployment Rate,3.50%,3.50%,3.50%,0
+2021-4-2 20:30:00,United States of America,2,Unemployment Rate,6.00%,6.00%,6.20%,0
+2021-9-3 20:30:00,United States of America,2,Unemployment Rate,5.20%,5.20%,5.40%,0
+2022-7-8 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.60%,3.60%,0
+2022-12-2 21:30:00,United States of America,2,Unemployment Rate,3.70%,3.70%,3.70%,0
+2023-7-7 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.60%,3.70%,0
+2024-9-6 20:30:00,United States of America,2,Unemployment Rate,4.20%,4.20%,4.30%,0
+2020-1-10 21:30:00,United States of America,2,Labor Force Participation Rate,63.20%,63.20%,63.20%,0
+2021-11-5 20:30:00,United States of America,2,Labor Force Participation Rate,61.60%,61.60%,61.60%,0
+2022-6-3 20:30:00,United States of America,2,Labor Force Participation Rate,62.30%,62.30%,62.20%,0
+2022-7-8 20:30:00,United States of America,2,Labor Force Participation Rate,62.20%,62.20%,62.30%,0
+2024-5-3 20:30:00,United States of America,2,Labor Force Participation Rate,62.70%,62.70%,62.70%,0
+2020-11-25 23:00:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.00%,0.00%,0.20%,0
+2024-6-28 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.00%,0.00%,0.30%,0
+2024-3-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),310.326,310.3,308.417,8.37899E-05
+2023-9-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),307.026,306.976,305.691,0.000162879
+2021-1-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),260.474,260.428,260.229,0.000176632
+2023-6-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),304.127,304.063,303.363,0.000210483
+2022-1-12 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),278.802,278.738,277.948,0.000229606
+2020-7-14 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),257.797,257.733,256.394,0.000248319
+2019-7-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.143,256.075,256.092,0.000265547
+2020-2-13 21:30:00,United States of America,2,Consumer Price Index Core s.a,266.48,266.398,265.921,0.00030781
+2023-1-12 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),296.797,296.701,297.711,0.000323558
+2022-4-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),287.504,287.41,283.716,0.000327059
+2020-2-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),257.971,257.863,256.974,0.000418827
+2019-4-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),254.202,254.09,252.776,0.000440789
+2020-12-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),260.229,260.114,260.388,0.000442114
+2024-1-11 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),306.746,306.61,307.051,0.00044356
+2019-11-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),257.346,257.227,256.759,0.000462626
+2021-8-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),273.003,272.866,271.696,0.000502078
+2019-8-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),256.571,256.442,256.143,0.000503038
+2019-1-11 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),251.23,251.1,252.04,0.000517722
+2020-3-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),258.678,258.539,257.971,0.000537636
+2021-10-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),274.31,274.144,273.567,0.000605521
+2021-4-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),264.877,264.69,263.014,0.000706487
+2024-4-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),312.332,312.098,310.326,0.000749764
+2019-2-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),251.71,251.52,251.23,0.000755407
+2019-7-11 20:30:00,United States of America,2,Consumer Price Index Core s.a,262.803,262.537,262.032,0.001013191
+2019-5-10 20:30:00,United States of America,2,Consumer Price Index Core s.a,261.735,261.47,261.374,0.001013501
+2019-4-10 20:30:00,United States of America,2,Consumer Price Index Core s.a,261.374,261.09,260.99,0.001087748
+2019-8-13 20:30:00,United States of America,2,Consumer Price Index Core s.a,263.569,263.282,262.803,0.001090086
+2022-10-13 20:30:00,United States of America,2,Consumer Price Index Core s.a,298.66,298.29,296.95,0.001240404
+2022-10-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),296.808,296.43,296.171,0.001275175
+2023-10-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),307.789,307.386,307.026,0.001311055
+2024-2-13 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),308.417,307.986,306.746,0.001399414
+2024-10-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),315.301,314.86,314.796,0.001400622
+2020-9-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),259.918,259.518,259.101,0.001541319
+2022-5-11 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),289.109,288.654,287.504,0.001576282
+2019-11-1 20:30:00,United States of America,2,Labor Force Participation Rate,63.30%,63.20%,63.20%,0.001582278
+2019-4-5 20:30:00,United States of America,2,Labor Force Participation Rate,63.00%,62.90%,63.20%,0.001589825
+2023-5-5 20:30:00,United States of America,2,Labor Force Participation Rate,62.60%,62.50%,62.60%,0.0016
+2023-6-2 20:30:00,United States of America,2,Labor Force Participation Rate,62.60%,62.50%,62.60%,0.0016
+2022-10-7 20:30:00,United States of America,2,Labor Force Participation Rate,62.30%,62.20%,62.40%,0.001607717
+2021-8-6 20:30:00,United States of America,2,Labor Force Participation Rate,61.70%,61.60%,61.60%,0.001623377
+2021-9-3 20:30:00,United States of America,2,Labor Force Participation Rate,61.70%,61.60%,61.70%,0.001623377
+2023-2-14 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),299.17,298.606,296.797,0.001888777
+2022-9-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),296.171,295.53,296.276,0.002168985
+2022-7-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),296.311,295.668,292.296,0.002174737
+2022-6-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),292.296,291.661,289.109,0.002177185
+2020-8-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),259.101,258.51,257.797,0.002286178
+2021-6-10 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),269.195,268.473,267.054,0.002689283
+2022-2-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),281.148,280.389,278.802,0.002706954
+2021-11-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),276.589,275.764,274.31,0.002991689
+2023-9-1 20:30:00,United States of America,2,Labor Force Participation Rate,62.80%,62.60%,62.60%,0.003194888
+2023-4-7 20:30:00,United States of America,2,Labor Force Participation Rate,62.60%,62.40%,62.50%,0.003205128
+2023-3-10 21:30:00,United States of America,2,Labor Force Participation Rate,62.50%,62.30%,62.40%,0.003210273
+2022-4-1 20:30:00,United States of America,2,Labor Force Participation Rate,62.40%,62.20%,62.30%,0.003215434
+2023-2-3 21:30:00,United States of America,2,Labor Force Participation Rate,62.40%,62.20%,62.30%,0.003215434
+2023-1-6 21:30:00,United States of America,2,Labor Force Participation Rate,62.30%,62.10%,62.10%,0.003220612
+2022-1-7 21:30:00,United States of America,2,Labor Force Participation Rate,61.90%,61.70%,61.80%,0.003241491
+2021-12-3 21:30:00,United States of America,2,Labor Force Participation Rate,61.80%,61.60%,61.60%,0.003246753
+2022-3-10 21:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),283.716,282.72,281.148,0.00352292
+2022-8-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,52.2,52,52.1,0.003846154
+2021-7-13 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),271.696,270.638,269.195,0.003909281
+2020-2-7 21:30:00,United States of America,2,Labor Force Participation Rate,63.40%,63.10%,63.20%,0.004754358
+2022-9-2 20:30:00,United States of America,2,Labor Force Participation Rate,62.40%,62.10%,62.10%,0.004830918
+2022-3-4 21:30:00,United States of America,2,Labor Force Participation Rate,62.30%,62.00%,62.20%,0.00483871
+2020-9-4 20:30:00,United States of America,2,Labor Force Participation Rate,61.70%,61.40%,61.40%,0.004885993
+2020-8-7 20:30:00,United States of America,2,Labor Force Participation Rate,61.40%,61.10%,61.50%,0.004909984
+2021-5-12 20:30:00,United States of America,1,Consumer Price Index n.s.a (MoM),267.054,265.584,264.877,0.005534972
+2022-2-4 21:30:00,United States of America,2,Labor Force Participation Rate,62.20%,61.80%,61.90%,0.006472492
+2024-9-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,46.6,46.2,46.1,0.008658009
+2023-3-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,43.8,43.4,43.6,0.00921659
+2022-7-13 20:30:00,United States of America,2,Consumer Price Index Core s.a,294.35,291.66,292.29,0.009223068
+2019-5-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,54.2,53.7,52.6,0.009310987
+2022-4-12 20:30:00,United States of America,2,Consumer Price Index (YoY),8.50%,8.40%,7.90%,0.011904762
+2022-10-13 20:30:00,United States of America,2,Consumer Price Index (YoY),8.20%,8.10%,8.30%,0.012345679
+2024-8-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,46.1,45.5,45.3,0.013186813
+2022-6-29 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.10%,7.00%,7.00%,0.014285714
+2022-7-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.80%,6.70%,6.30%,0.014925373
+2022-4-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.60%,6.50%,6.40%,0.015384615
+2022-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.60%,6.50%,6.30%,0.015384615
+2022-3-30 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),6.40%,6.30%,6.30%,0.015873016
+2022-2-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.00%,5.90%,5.50%,0.016949153
+2022-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.00%,5.90%,6.20%,0.016949153
+2021-12-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,63.1,62,61.8,0.017741935
+2021-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.70%,5.60%,5.00%,0.017857143
+2024-7-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,45.3,44.5,47.4,0.017977528
+2023-2-14 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.60%,5.50%,5.70%,0.018181818
+2022-1-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.50%,5.40%,4.90%,0.018518519
+2019-12-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,48.9,48,46.3,0.01875
+2021-8-11 20:30:00,United States of America,2,Consumer Price Index (YoY),5.40%,5.30%,5.40%,0.018867925
+2021-10-13 20:30:00,United States of America,2,Consumer Price Index (YoY),5.40%,5.30%,5.30%,0.018867925
+2022-2-25 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,5.20%,5.10%,4.90%,0.019607843
+2022-6-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.20%,5.10%,5.10%,0.019607843
+2022-2-24 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.00%,4.90%,4.90%,0.020408163
+2023-5-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),5.00%,4.90%,4.90%,0.020408163
+2022-1-28 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.90%,4.80%,4.70%,0.020833333
+2023-4-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.90%,4.80%,4.40%,0.020833333
+2022-7-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.80%,4.70%,4.70%,0.021276596
+2022-12-22 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.70%,4.60%,4.60%,0.02173913
+2023-5-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.70%,4.60%,4.60%,0.02173913
+2021-12-22 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.60%,4.50%,4.50%,0.022222222
+2022-11-30 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.60%,4.50%,4.50%,0.022222222
+2023-4-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.60%,4.50%,4.60%,0.022222222
+2023-3-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.40%,4.30%,4.30%,0.023255814
+2022-11-30 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.30%,4.20%,4.20%,0.023809524
+2022-5-11 20:30:00,United States of America,2,Consumer Price Index (YoY),8.30%,8.10%,8.50%,0.024691358
+2022-9-13 20:30:00,United States of America,2,Consumer Price Index (YoY),8.30%,8.10%,8.50%,0.024691358
+2024-7-5 20:30:00,United States of America,2,Unemployment Rate,4.10%,4.00%,4.00%,0.025
+2019-2-1 21:30:00,United States of America,2,Unemployment Rate,4.00%,3.90%,3.90%,0.025641026
+2022-2-4 21:30:00,United States of America,2,Unemployment Rate,4.00%,3.90%,3.90%,0.025641026
+2024-6-7 20:30:00,United States of America,2,Unemployment Rate,4.00%,3.90%,3.90%,0.025641026
+2024-1-11 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.90%,3.80%,4.00%,0.026315789
+2023-11-3 20:30:00,United States of America,2,Unemployment Rate,3.90%,3.80%,3.80%,0.026315789
+2024-5-3 20:30:00,United States of America,2,Unemployment Rate,3.90%,3.80%,3.80%,0.026315789
+2024-3-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.80%,3.70%,3.90%,0.027027027
+2024-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.80%,3.70%,3.80%,0.027027027
+2023-10-6 20:30:00,United States of America,2,Unemployment Rate,3.80%,3.70%,3.80%,0.027027027
+2022-2-10 21:30:00,United States of America,2,Consumer Price Index (YoY),7.50%,7.30%,7.00%,0.02739726
+2024-6-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),3.70%,3.60%,3.60%,0.027777778
+2023-9-13 20:30:00,United States of America,3,Consumer Price Index (YoY),3.70%,3.60%,3.20%,0.027777778
+2023-10-12 20:30:00,United States of America,3,Consumer Price Index (YoY),3.70%,3.60%,3.70%,0.027777778
+2019-7-5 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.60%,3.60%,0.027777778
+2022-11-4 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.60%,3.50%,0.027777778
+2022-9-29 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.30%,7.10%,7.10%,0.028169014
+2020-2-7 21:30:00,United States of America,2,Unemployment Rate,3.60%,3.50%,3.50%,0.028571429
+2022-5-6 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.50%,3.60%,0.028571429
+2022-6-3 20:30:00,United States of America,2,Unemployment Rate,3.60%,3.50%,3.60%,0.028571429
+2024-4-10 20:30:00,United States of America,3,Consumer Price Index (YoY),3.50%,3.40%,3.20%,0.029411765
+2024-6-27 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),3.40%,3.30%,3.30%,0.03030303
+2024-10-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.30%,3.20%,3.20%,0.03125
+2023-2-14 21:30:00,United States of America,2,Consumer Price Index (YoY),6.40%,6.20%,6.50%,0.032258065
+2024-3-12 20:30:00,United States of America,3,Consumer Price Index (YoY),3.20%,3.10%,3.10%,0.032258065
+2022-9-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.30%,6.10%,5.90%,0.032786885
+2022-5-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),6.20%,6.00%,6.50%,0.033333333
+2021-7-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),6.10%,5.90%,2.50%,0.033898305
+2022-7-13 20:30:00,United States of America,2,Consumer Price Index (YoY),9.10%,8.80%,8.60%,0.034090909
+2022-7-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),5.90%,5.70%,6.00%,0.035087719
+2021-7-2 20:30:00,United States of America,2,Unemployment Rate,5.90%,5.70%,5.80%,0.035087719
+2022-6-10 20:30:00,United States of America,2,Consumer Price Index (YoY),8.60%,8.30%,8.30%,0.036144578
+2022-12-23 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.50%,5.30%,6.00%,0.037735849
+2024-10-31 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.70%,2.60%,2.70%,0.038461538
+2024-7-26 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (Y...,2.60%,2.50%,2.60%,0.04
+2021-4-13 20:30:00,United States of America,2,Consumer Price Index (YoY),2.60%,2.50%,1.70%,0.04
+2020-2-13 21:30:00,United States of America,2,Consumer Price Index (YoY),2.50%,2.40%,2.30%,0.041666667
+2022-9-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.90%,4.70%,4.60%,0.042553191
+2019-9-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.40%,2.30%,2.30%,0.043478261
+2019-9-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.40%,2.30%,2.20%,0.043478261
+2020-3-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.40%,2.30%,2.30%,0.043478261
+2024-10-10 20:30:00,United States of America,3,Consumer Price Index (YoY),2.40%,2.30%,2.50%,0.043478261
+2020-12-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,59.5,57,58.2,0.043859649
+2021-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.70%,4.50%,4.10%,0.044444444
+2020-2-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.30%,2.20%,2.30%,0.045454545
+2020-3-11 20:30:00,United States of America,2,Consumer Price Index (YoY),2.30%,2.20%,2.50%,0.045454545
+2019-10-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.20%,2.10%,1.90%,0.047619048
+2024-10-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.20%,2.10%,2.80%,0.047619048
+2019-2-13 21:30:00,United States of America,3,Consumer Price Index Ex Food & Energy (YoY),2.20%,2.10%,2.20%,0.047619048
+2019-8-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.20%,2.10%,2.10%,0.047619048
+2024-8-2 20:30:00,United States of America,2,Unemployment Rate,4.30%,4.10%,4.10%,0.048780488
+2020-5-8 20:30:00,United States of America,3,Unemployment Rate,14.70%,14.00%,4.40%,0.05
+2022-9-2 20:30:00,United States of America,3,Nonfarm Payrolls,315,300,528,0.05
+2024-2-28 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.10%,2.00%,2.00%,0.05
+2019-7-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),2.10%,2.00%,2.00%,0.05
+2019-12-11 21:30:00,United States of America,2,Consumer Price Index (YoY),2.10%,2.00%,1.80%,0.05
+2021-5-7 20:30:00,United States of America,2,Unemployment Rate,6.10%,5.80%,6.00%,0.051724138
+2022-10-7 20:30:00,United States of America,3,Nonfarm Payrolls,263,250,315,0.052
+2020-10-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,61.1,58,62.4,0.053448276
+2024-2-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.90%,3.70%,3.90%,0.054054054
+2019-1-4 21:30:00,United States of America,2,Unemployment Rate,3.90%,3.70%,3.70%,0.054054054
+2024-3-8 21:30:00,United States of America,2,Unemployment Rate,3.90%,3.70%,3.70%,0.054054054
+2019-4-10 20:30:00,United States of America,2,Consumer Price Index (YoY),1.90%,1.80%,1.50%,0.055555556
+2022-1-31 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,65.2,61.7,63.1,0.056726094
+2022-9-2 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.50%,3.50%,0.057142857
+2023-6-2 20:30:00,United States of America,2,Unemployment Rate,3.70%,3.50%,3.40%,0.057142857
+2019-3-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.80%,1.70%,1.70%,0.058823529
+2020-3-27 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.80%,1.70%,1.60%,0.058823529
+2024-2-28 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.80%,1.70%,1.70%,0.058823529
+2019-8-13 20:30:00,United States of America,2,Consumer Price Index (YoY),1.80%,1.70%,1.60%,0.058823529
+2019-11-13 21:30:00,United States of America,2,Consumer Price Index (YoY),1.80%,1.70%,1.70%,0.058823529
+2023-3-10 21:30:00,United States of America,2,Unemployment Rate,3.60%,3.40%,3.40%,0.058823529
+2019-8-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,50.4,47.5,44.4,0.061052632
+2019-2-28 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.70%,1.60%,1.60%,0.0625
+2020-4-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.70%,1.60%,1.80%,0.0625
+2020-6-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.70%,1.60%,1.60%,0.0625
+2020-9-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.70%,1.60%,1.60%,0.0625
+2024-1-11 21:30:00,United States of America,3,Consumer Price Index (YoY),3.40%,3.20%,3.10%,0.0625
+2020-11-6 21:30:00,United States of America,3,Nonfarm Payrolls,638,600,661,0.063333333
+2021-6-10 20:30:00,United States of America,2,Consumer Price Index (YoY),5.00%,4.70%,4.20%,0.063829787
+2019-2-13 21:30:00,United States of America,2,Consumer Price Index (YoY),1.60%,1.50%,1.90%,0.066666667
+2021-4-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.60%,1.50%,1.30%,0.066666667
+2020-2-28 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,49,45.9,42.9,0.067538126
+2022-9-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.70%,4.40%,4.40%,0.068181818
+2021-5-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,3.10%,2.90%,1.80%,0.068965517
+2022-10-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.20%,5.80%,6.20%,0.068965517
+2021-11-10 21:30:00,United States of America,2,Consumer Price Index (YoY),6.20%,5.80%,5.40%,0.068965517
+2024-2-13 21:30:00,United States of America,3,Consumer Price Index (YoY),3.10%,2.90%,3.40%,0.068965517
+2021-11-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.60%,4.30%,4.00%,0.069767442
+2021-2-26 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.50%,1.40%,1.50%,0.071428571
+2024-7-25 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.90%,2.70%,3.70%,0.074074074
+2019-9-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.40%,1.30%,1.40%,0.076923077
+2020-3-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),1.40%,1.30%,1.30%,0.076923077
+2020-10-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.40%,1.30%,1.40%,0.076923077
+2021-1-13 21:30:00,United States of America,2,Consumer Price Index (YoY),1.40%,1.30%,1.20%,0.076923077
+2021-10-29 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,68.4,63.5,64.7,0.077165354
+2023-1-31 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,44.3,41,44.9,0.080487805
+2019-4-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.30%,1.20%,1.40%,0.083333333
+2019-11-27 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.30%,1.20%,1.30%,0.083333333
+2020-3-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.30%,1.20%,1.20%,0.083333333
+2020-8-28 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.30%,1.20%,0.90%,0.083333333
+2020-9-11 20:30:00,United States of America,2,Consumer Price Index (YoY),1.30%,1.20%,1.00%,0.083333333
+2021-8-6 20:30:00,United States of America,3,Nonfarm Payrolls,943,870,850,0.083908046
+2024-7-5 20:30:00,United States of America,3,Nonfarm Payrolls,206,190,272,0.084210526
+2023-9-1 20:30:00,United States of America,2,Unemployment Rate,3.80%,3.50%,3.50%,0.085714286
+2021-5-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),2.50%,2.30%,2.30%,0.086956522
+2021-11-24 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.00%,4.60%,4.40%,0.086956522
+2019-4-5 20:30:00,United States of America,3,Nonfarm Payrolls,196,180,20,0.088888889
+2022-12-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,44.9,41.2,37.2,0.089805825
+2021-1-29 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,63.8,58.5,59.5,0.090598291
+2020-7-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.20%,1.10%,1.20%,0.090909091
+2020-12-10 21:30:00,United States of America,2,Consumer Price Index (YoY),1.20%,1.10%,1.20%,0.090909091
+2021-3-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,66.3,60.7,59.5,0.092257002
+2023-2-24 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (Y...,4.70%,4.30%,4.40%,0.093023256
+2022-5-6 20:30:00,United States of America,3,Nonfarm Payrolls,428,391,431,0.094629156
+2022-5-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,60.3,55,56.4,0.096363636
+2023-9-1 20:30:00,United States of America,3,Nonfarm Payrolls,187,170,187,0.1
+2020-8-7 20:30:00,United States of America,3,Nonfarm Payrolls,"1,763.00","1,600.00","4,800.00",0.101875
+2023-2-24 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),5.40%,4.90%,5.00%,0.102040816
+2021-7-13 20:30:00,United States of America,2,Consumer Price Index (YoY),5.40%,4.90%,5.00%,0.102040816
+2021-10-1 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),4.30%,3.90%,4.20%,0.102564103
+2023-2-23 21:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),4.30%,3.90%,3.90%,0.102564103
+2022-3-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,62.9,57,56.3,0.103508772
+2021-4-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,72.1,65.3,66.3,0.104134763
+2023-8-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,48.7,44.1,42.8,0.10430839
+2023-12-8 21:30:00,United States of America,3,Nonfarm Payrolls,199,180,150,0.105555556
+2021-5-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,75.2,68,72.1,0.105882353
+2022-2-25 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),6.10%,5.50%,5.80%,0.109090909
+2020-6-26 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.00%,0.90%,1.00%,0.111111111
+2023-1-6 21:30:00,United States of America,3,Nonfarm Payrolls,223,200,263,0.115
+2023-4-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,48.6,43.5,43.8,0.117241379
+2019-9-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.90%,1.70%,1.70%,0.117647059
+2021-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.80%,3.40%,3.00%,0.117647059
+2020-4-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.80%,1.60%,1.30%,0.125
+2021-7-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),4.50%,4.00%,3.80%,0.125
+2023-5-26 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),4.40%,3.90%,4.20%,0.128205128
+2019-2-28 22:51:00,United States of America,2,Chicago Purchasing Managers' Index,64.7,57,56.7,0.135087719
+2020-10-1 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.60%,1.40%,1.30%,0.142857143
+2021-12-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.80%,0.70%,0.90%,0.142857143
+2019-12-20 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.50%,1.30%,1.30%,0.153846154
+2021-1-29 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Yo...,1.50%,1.30%,1.40%,0.153846154
+2023-2-23 21:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),3.70%,3.20%,3.20%,0.15625
+2020-4-3 20:30:00,United States of America,3,Unemployment Rate,4.40%,3.80%,3.50%,0.157894737
+2022-7-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.10%,6.10%,7.10%,0.163934426
+2021-5-28 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.70%,0.60%,0.40%,0.166666667
+2022-7-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.70%,0.60%,0.60%,0.166666667
+2022-7-13 20:30:00,United States of America,2,Consumer Price Index (MoM),1.30%,1.10%,1.00%,0.181818182
+2020-7-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,51.9,43.9,36.6,0.182232346
+2024-6-28 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,47.4,40,35.4,0.185
+2022-4-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),7.00%,5.90%,6.40%,0.186440678
+2020-3-31 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,47.8,40,49,0.195
+2021-8-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),4.20%,3.50%,4.00%,0.2
+2020-9-30 21:45:00,United States of America,2,Chicago Purchasing Managers' Index,62.4,52,51.2,0.2
+2019-6-27 20:30:00,United States of America,2,Core Personal Consumption Expenditures (QoQ),1.20%,1.00%,1.00%,0.2
+2022-7-29 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.60%,0.50%,0.30%,0.2
+2022-9-30 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.60%,0.50%,0.10%,0.2
+2023-2-24 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.60%,0.50%,0.10%,0.2
+2020-7-14 20:30:00,United States of America,2,Consumer Price Index (MoM),0.60%,0.50%,-0.10%,0.2
+2021-4-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.60%,0.50%,0.40%,0.2
+2022-1-12 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.50%,0.50%,0.2
+2022-2-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.60%,0.50%,0.50%,0.2
+2022-2-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.50%,0.60%,0.2
+2022-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.50%,0.60%,0.2
+2022-10-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.50%,0.60%,0.2
+2022-6-3 20:30:00,United States of America,3,Nonfarm Payrolls,390,325,428,0.2
+2021-7-2 20:30:00,United States of America,3,Nonfarm Payrolls,850,700,559,0.214285714
+2023-11-30 22:45:00,United States of America,2,Chicago Purchasing Managers' Index,55.8,45.4,44,0.22907489
+2021-11-5 20:30:00,United States of America,3,Nonfarm Payrolls,531,425,194,0.249411765
+2019-6-27 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),0.50%,0.40%,0.40%,0.25
+2021-12-23 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.50%,0.40%,0.40%,0.25
+2020-8-12 20:30:00,United States of America,2,Consumer Price Index (YoY),1.00%,0.80%,0.60%,0.25
+2022-1-12 21:30:00,United States of America,2,Consumer Price Index (MoM),0.50%,0.40%,0.80%,0.25
+2023-3-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.50%,0.40%,0.40%,0.25
+2024-1-5 21:30:00,United States of America,3,Nonfarm Payrolls,216,170,199,0.270588235
+2021-5-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),3.00%,2.30%,1.60%,0.304347826
+2022-11-4 20:30:00,United States of America,3,Nonfarm Payrolls,261,200,263,0.305
+2022-12-2 21:30:00,United States of America,3,Nonfarm Payrolls,263,200,261,0.315
+2021-10-28 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),5.30%,4.00%,6.50%,0.325
+2020-5-29 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,-0.40%,-0.30%,-0.10%,0.333333333
+2021-4-30 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.40%,0.30%,0.10%,0.333333333
+2021-6-25 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.30%,0.60%,0.333333333
+2023-5-26 20:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.40%,0.30%,0.30%,0.333333333
+2023-10-27 20:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.30%,0.40%,0.333333333
+2019-4-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.30%,0.20%,0.333333333
+2019-11-13 21:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.30%,0.00%,0.333333333
+2020-4-10 20:30:00,United States of America,2,Consumer Price Index (MoM),-0.40%,-0.30%,0.10%,0.333333333
+2020-9-11 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.30%,0.60%,0.333333333
+2021-10-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.30%,0.30%,0.333333333
+2023-10-12 20:30:00,United States of America,3,Consumer Price Index (MoM),0.40%,0.30%,0.60%,0.333333333
+2024-2-13 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.30%,0.30%,0.333333333
+2024-3-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.30%,0.40%,0.333333333
+2024-4-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.30%,0.40%,0.333333333
+2024-4-10 20:30:00,United States of America,3,Consumer Price Index (MoM),0.40%,0.30%,0.40%,0.333333333
+2021-2-26 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),1.50%,1.10%,1.30%,0.363636364
+2024-3-8 21:30:00,United States of America,3,Nonfarm Payrolls,275,200,353,0.375
+2022-7-8 20:30:00,United States of America,3,Nonfarm Payrolls,372,268,390,0.388059701
+2019-7-5 20:30:00,United States of America,3,Nonfarm Payrolls,224,160,75,0.4
+2020-2-7 21:30:00,United States of America,3,Nonfarm Payrolls,225,160,145,0.40625
+2023-5-5 20:30:00,United States of America,3,Nonfarm Payrolls,253,179,236,0.413407821
+2021-4-2 20:30:00,United States of America,3,Nonfarm Payrolls,916,647,379,0.41576507
+2019-5-3 20:30:00,United States of America,3,Nonfarm Payrolls,263,185,196,0.421621622
+2022-6-10 20:30:00,United States of America,2,Consumer Price Index (MoM),1.00%,0.70%,0.30%,0.428571429
+2021-4-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),2.30%,1.60%,1.60%,0.4375
+2019-11-1 20:30:00,United States of America,3,Nonfarm Payrolls,128,89,136,0.438202247
+2020-8-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (YoY),1.60%,1.10%,1.20%,0.454545455
+2024-6-7 20:30:00,United States of America,3,Nonfarm Payrolls,272,185,175,0.47027027
+2019-12-6 21:30:00,United States of America,3,Nonfarm Payrolls,266,180,128,0.477777778
+2021-11-10 21:30:00,United States of America,2,Consumer Price Index (MoM),0.90%,0.60%,0.40%,0.5
+2021-2-26 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.30%,0.20%,0.30%,0.5
+2021-11-24 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.60%,0.40%,0.30%,0.5
+2023-1-27 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.30%,0.20%,0.20%,0.5
+2023-2-24 21:30:00,United States of America,2,Core Personal Consumption Expenditures - Price Index (M...,0.60%,0.40%,0.30%,0.5
+2023-3-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.20%,0.60%,0.5
+2019-7-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.10%,0.5
+2019-8-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.30%,0.5
+2019-9-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.30%,0.5
+2019-12-11 21:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.20%,0.40%,0.5
+2021-4-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.10%,0.5
+2021-6-10 20:30:00,United States of America,2,Consumer Price Index (MoM),0.60%,0.40%,0.80%,0.5
+2021-11-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.40%,0.20%,0.5
+2022-5-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.40%,0.30%,0.5
+2022-5-11 20:30:00,United States of America,2,Consumer Price Index (MoM),0.30%,0.20%,1.20%,0.5
+2023-9-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.20%,0.5
+2024-1-11 21:30:00,United States of America,3,Consumer Price Index (MoM),0.30%,0.20%,0.10%,0.5
+2024-2-13 21:30:00,United States of America,3,Consumer Price Index (MoM),0.30%,0.20%,0.30%,0.5
+2024-9-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.20%,0.5
+2024-10-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.30%,0.20%,0.30%,0.5
+2024-4-5 20:30:00,United States of America,3,Nonfarm Payrolls,303,200,275,0.515
+2023-3-10 21:30:00,United States of America,3,Nonfarm Payrolls,311,205,517,0.517073171
+2020-3-6 21:30:00,United States of America,3,Nonfarm Payrolls,273,175,225,0.56
+2020-7-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),0.80%,0.50%,0.50%,0.6
+2020-7-2 20:30:00,United States of America,3,Nonfarm Payrolls,"4,800.00","3,000.00","2,509.00",0.6
+2021-5-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (YoY),3.60%,2.20%,2.30%,0.636363636
+2021-4-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.50%,0.30%,0.20%,0.666666667
+2022-3-4 21:30:00,United States of America,3,Nonfarm Payrolls,678,400,467,0.695
+2021-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.70%,0.40%,0.90%,0.75
+2019-1-4 21:30:00,United States of America,3,Nonfarm Payrolls,312,177,155,0.762711864
+2023-6-2 20:30:00,United States of America,3,Nonfarm Payrolls,339,190,253,0.784210526
+2022-4-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.90%,0.50%,0.60%,0.8
+2021-7-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.90%,0.50%,0.60%,0.8
+2024-10-4 20:30:00,United States of America,3,Nonfarm Payrolls,254,140,142,0.814285714
+2019-2-1 21:30:00,United States of America,3,Nonfarm Payrolls,304,165,312,0.842424242
+2024-2-2 21:30:00,United States of America,3,Nonfarm Payrolls,353,180,216,0.961111111
+2023-10-6 20:30:00,United States of America,3,Nonfarm Payrolls,336,170,187,0.976470588
+2019-6-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.10%,0.30%,1
+2019-11-27 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.10%,0.00%,1
+2019-12-20 23:00:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.10%,0.20%,1
+2020-1-31 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.20%,0.10%,0.10%,1
+2020-10-30 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.20%,0.10%,0.30%,1
+2021-8-27 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.20%,0.50%,1
+2022-2-25 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.60%,0.30%,0.40%,1
+2022-7-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),1.00%,0.50%,0.60%,1
+2024-7-26 20:30:00,United States of America,3,Core Personal Consumption Expenditures - Price Index (M...,0.20%,0.10%,0.10%,1
+2020-5-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),-0.40%,-0.20%,-0.10%,1
+2020-7-14 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.10%,-0.10%,1
+2020-8-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.60%,0.30%,0.60%,1
+2020-9-11 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.40%,0.20%,0.60%,1
+2020-12-10 21:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.20%,0.10%,0.00%,1
+2022-9-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.30%,0.30%,1
+2022-10-13 20:30:00,United States of America,2,Consumer Price Index (MoM),0.40%,0.20%,0.10%,1
+2024-10-10 20:30:00,United States of America,3,Consumer Price Index (MoM),0.20%,0.10%,0.20%,1
+2019-4-29 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.10%,0.00%,-0.10%,1
+2020-6-26 20:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.10%,0.00%,-0.40%,1
+2023-12-22 21:30:00,United States of America,2,Personal Consumption Expenditures - Price Index (MoM),-0.10%,0.00%,0.00%,1
+2019-7-11 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.00%,0.10%,1
+2020-3-11 20:30:00,United States of America,2,Consumer Price Index (MoM),0.10%,0.00%,0.10%,1
+2020-6-10 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),-0.10%,0.00%,-0.40%,1
+2020-6-10 20:30:00,United States of America,2,Consumer Price Index (MoM),-0.10%,0.00%,-0.80%,1
+2023-1-12 21:30:00,United States of America,2,Consumer Price Index (MoM),-0.10%,0.00%,0.10%,1
+2021-3-5 21:30:00,United States of America,3,Nonfarm Payrolls,379,182,49,1.082417582
+2022-8-5 20:30:00,United States of America,3,Nonfarm Payrolls,528,250,372,1.112
+2021-7-13 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.90%,0.40%,0.70%,1.25
+2023-2-3 21:30:00,United States of America,3,Nonfarm Payrolls,517,185,223,1.794594595
+2021-5-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.90%,0.30%,0.30%,2
+2019-5-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.10%,0.20%,2
+2020-1-31 21:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.10%,0.20%,2
+2020-8-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.30%,0.10%,0.40%,2
+2021-1-29 21:30:00,United States of America,2,Core Personal Consumption Expenditure - Price Index (Mo...,0.30%,0.10%,0.00%,2
+2021-5-28 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.60%,0.20%,0.50%,2
+2020-8-12 20:30:00,United States of America,3,Consumer Price Index ex Food & Energy (MoM),0.60%,0.20%,0.20%,2
+2020-7-31 20:30:00,United States of America,1,Personal Consumption Expenditures - Price Index (MoM),0.40%,0.00%,0.10%,2
+2022-2-4 21:30:00,United States of America,3,Nonfarm Payrolls,467,150,199,2.113333333
+2019-7-26 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),2.30%,0.60%,0.50%,2.833333333
+2021-5-12 20:30:00,United States of America,2,Consumer Price Index (MoM),0.80%,0.20%,0.60%,3
+2020-4-3 20:30:00,United States of America,3,Nonfarm Payrolls,-701,-100,273,6.01
+2023-4-27 20:30:00,United States of America,2,Personal Consumption Expenditures Prices (QoQ),4.20%,0.50%,3.70%,7.4

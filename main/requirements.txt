@@ -1,0 +1,9 @@
+# Python 3.12.2
+# pip install -r requirements.txt
+#
+# Figures 3-6 are MATLAB (R2021b, Optimization Toolbox) and need nothing here.
+
+pandas==2.2.2
+numpy==1.26.4
+statsmodels==0.14.2
+matplotlib==3.8.4
